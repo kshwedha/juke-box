@@ -1,0 +1,11 @@
+SERVER:
+  HOST: 0.0.0.0
+  POST: 8080
+
+db:
+  HOST: "localhost"
+  PORT: "5432"
+  USER: "jukebox"
+  PASSWORD: ""
+  DATABASE: "jukebox"
+  SSL_MODE: "disable"
